@@ -16,7 +16,7 @@ import com.ingenico.ebanking.model.TransferModel;
 
 /**
  *
- * @author caydogdu
+ * @author aditi
  *
  *         This is a service for account transactions
  */
