@@ -2,7 +2,7 @@ package com.ingenico.ebanking.exception;
 
 /**
  *
- * @author caydogdu
+ * @author aditi
  *
  *         This is a custom exception class for business rules
  */
