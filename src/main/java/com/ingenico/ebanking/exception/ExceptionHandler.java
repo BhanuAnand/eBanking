@@ -1,9 +1,7 @@
 package com.ingenico.ebanking.exception;
 
-/**
- * 
+/** 
  * @author aditi
- * 
  */
 public class ExceptionHandler {
 
