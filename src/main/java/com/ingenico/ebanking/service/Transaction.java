@@ -2,7 +2,7 @@ package com.ingenico.ebanking.service;
 
 /**
  * 
- * @author caydogdu
+ * @author aditi
  *
  * This is a interface for transactions
  */
