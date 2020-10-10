@@ -1,5 +1,10 @@
 package com.ingenico.ebanking.exception;
 
+/**
+ * 
+ * @author aditi
+ * 
+ */
 public class ExceptionHandler {
 
     public static ResponseError errorResponse(Exception e) {
