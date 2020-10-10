@@ -2,7 +2,7 @@ package com.ingenico.ebanking.model;
 
 /**
  * 
- * @author caydogdu
+ * @author aditi
  *
  * This is model for rest service
  */
