@@ -2,7 +2,7 @@ package com.ingenico.ebanking.account;
 
 /**
  *
- * @author caydogdu
+ * @author aditi
  *
  *         This is a abstract class for possible accounts
  *
