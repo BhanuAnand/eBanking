@@ -6,7 +6,7 @@ import com.ingenico.ebanking.exception.ResponseError;
 
 /**
  * 
- * @author caydogdu
+ * @author aditi
  *
  * This is a coomon response class for rest response
  * @param <T>
