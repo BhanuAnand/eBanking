@@ -24,7 +24,7 @@ import com.ingenico.ebanking.service.AccountTransaction;
 
 /**
  *
- * @author caydogdu
+ * @author aditi
  *
  *         This is a controller for rest services
  */
